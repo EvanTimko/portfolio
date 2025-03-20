@@ -13,7 +13,7 @@ CSC · InternshipCSC · Internship
 
 Jun 2022 - Aug 2022 · 3 mos
 
-Wilmington, Delaware, United StatesWilmington, Delaware, United States
+Wilmington, Delaware, United States
 
 - Writing software in Java for extending and maintaining microservices and API frameworks(in spring)
 - Building stable, scalable, and secure backend services
