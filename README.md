@@ -9,8 +9,7 @@
 
 ### Software Engineer Intern
 
-CSC · InternshipCSC · Internship
-
+CSC · Internship
 Jun 2022 - Aug 2022 · 3 mos
 
 Wilmington, Delaware, United States
