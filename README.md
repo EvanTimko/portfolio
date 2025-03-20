@@ -7,10 +7,14 @@
 
 ## Work Experience
 
-###Software Engineer Intern
+### Software Engineer Intern
+
 CSC · InternshipCSC · Internship
+
 Jun 2022 - Aug 2022 · 3 mos
+
 Wilmington, Delaware, United StatesWilmington, Delaware, United States
+
 - Writing software in Java for extending and maintaining microservices and API frameworks(in spring)
 - Building stable, scalable, and secure backend services
 - Building software deployment pipelines using CI/CD best practices
