@@ -1,5 +1,7 @@
 # Portfolio
+
 - LinkedIn: https://www.linkedin.com/in/evan-timko-4008a81a2/
+
 ## Education
 
 - Bachelor's of Science in Computer Science
