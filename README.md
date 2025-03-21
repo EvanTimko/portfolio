@@ -1,5 +1,5 @@
 # Portfolio
-
+![](IMG_0316.JPG)
 ## Education
 
 - Bachelor's of Science in Computer Science
