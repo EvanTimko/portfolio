@@ -94,46 +94,55 @@ Python - Java - JavaScript - C - Microsoft - Mac - Linux - Git - React - Figma(S
 ## Projects
 
 ### Emotion Detection
+![](8-png.png)
 In Python, created a program that can detect one’s sentiment. By collecting data online of text related to emotion then cleaning the data then using logistic regression with pipelining and count vectorizing, which show one’s emotion based on user’s text input.
 
 Used: Python(Libraries) - Jupyter Notbook
 
 ### Mchat
+![](7-png.png)
 Using React.js, developed a messaging platform. That used Firebase to authenticate user and Chatengine an API that is setup to handle messaging between user and used react to connect the two software together to create a functional messaging platform.
 
 Used: React.js - Node.js - JavaScript - Firebase - Chat Engine
 
 ### Web Scrapper
+![](9-png.png)
 In Python, developed a program using BeautifulSoup, request, and pandas to gather visual table from websites. This is done by searching for table tags in the html processing the data off the website into a data frame then saving it to csv. Which allows user to use for later analisys.
 
 Used: Python(Libraries) - Jupyter Notbook
 
 ### Lottery Number Predictor
+![](6-png.png)
 Using Python, utilized my web scrapper and redesighned to collect the numbers out the website. Cleaned and organized the data then using Sklearn and Keras trained the machine to predict the potential numbers.
 
 Used: Python(Libraries)
 
 ### Color Sorter
+![](2-png.png)
 Using C++ and Arduino, I created a simple color sorter that will Identify the color passing a sensor and if the color matches the expected hue then the servo will push it off the belt into the proper container.
 
 Used: C++
 
 ### API Bank Account
+![](5-png.png)
 Using Spring Boot, I created a simple API that will allow a user to create a bank account and deposit and withdraw money from it. However, I was not able to implenment security in this project. I gain an enormous amount of knowledge from this project and I am glad I was able to create it.
 
 Used: Spring Boot - Java
 
 ### My ArrayList
+![](3-png.png)
 Using Java, I took a data structure and redesigned it. I chose ArrayList and recoded with my personal touches with some method being left out and some new method being added into it, also I used generics', so one can pass a parameter type or leave it raw type if they so decide. This was fun because it depend my understanding of the data structure and how to use it.
 
 Used: Java
 
 ### Soduku Solver
+![](1-png.png)
 Using Python, I sought to solve a simple veryday puzzle one may find themselves doing on the pot. This was a fun project to create and solve. I used the backtracking algorithm to solve the puzzle. So, in a simpleir way I made it so that every time it encounter the same number in a row or column it will attempt a different number and if not it will go back and try again and if succeeful continue to move forward going back and forth until it is solved.
 
 Used: Python
 
 ## Pong
+![](4-png.png)
 Using Python, I remade the classic game of Pong. I used the pygame library to create the game. So, basically players move their bars on the side to score with the ball bouncing through other players side as well as keeping track of the score.
 
 Used: Python(Pygame)
