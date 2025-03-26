@@ -1,6 +1,7 @@
 # Portfolio
 
 - LinkedIn: https://www.linkedin.com/in/evan-timko-4008a81a2/
+- Github: https://github.com/EvanTimko
 
 ## Education
 
@@ -91,7 +92,7 @@ Credential ID 001226662
 Issued  Feb 2018
 
 ## Skills
-Python - Java - JavaScript - C - Microsoft - Mac - Linux - Git - React - Figma(Software) - Agile/Scrum Methodologies - Data Structures - Data mining - Data Cleaning - DataBases - SQL - Search/Writing Querying - Data Analytics - Analytical Skills - Problem Solving - MySQL - Microssoft Word/Excel/PowerPoint/Access - Jupyter Notebook - Project Management - Networks - Front and Back end Development - Application Program Interfaces(API's) - Spring Boot - Algorithms - Machine Learning 
+Python - Java - JavaScript - C - R - Microsoft - Mac - Linux - Git - React - Figma(Software) - Agile/Scrum Methodologies - Data Structures - Data mining - Data Cleaning - DataBases - SQL - Search/Writing Querying - Data Analytics - Analytical Skills - Problem Solving - MySQL - Microssoft Word/Excel/PowerPoint/Access - Jupyter Notebook - Project Management - Networks - Front and Back end Development - Application Program Interfaces(API's) - Spring Boot - Algorithms - Machine Learning - Google Sheets - Tableau
 
 ## Projects
 
@@ -106,6 +107,12 @@ Used: Python(Libraries) - Jupyter Notbook
 Using React.js, developed a messaging platform. That used Firebase to authenticate user and Chatengine an API that is setup to handle messaging between user and used react to connect the two software together to create a functional messaging platform.
 
 Used: React.js - Node.js - JavaScript - Firebase - Chat Engine
+
+### Case Study: Bike-Share Company
+
+The scenerio is a Bike-Share company in Chicago is hiring me as a junior data analyst. My team will dive into differences between casual users and annual members use. From these insights we have to leverage the data to convert casual users to members. Objective was to find out how members and casual consumers use the cyclistic bikes differently? And how could we convince casual riders to purchase a membership? I downloaded, cleaned, filtered, and graphed the data. And Came to the summation that the casual consumers use the service more during the weekends and the when its warmer weather out. While, the members tend to use it more during the weekdays and they also prefer the warmer weather but retain membership in winter just don't use a bike to much. I suggest was to expand pricing plans so instead of 3 that more that are board for the casual user, so then they could then possible become member.
+
+used: R
 
 ### Web Scrapper
 ![](9-png.png)
