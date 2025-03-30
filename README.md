@@ -88,8 +88,15 @@ Issued Jul 2021 · Expired Jul 2023
 
 Credential ID 001226662
 
+Link: https://bcert.me/bc/html/show-badge.html?b=vfwgjtng
+
 ### Private Pilots Liciense
 Issued  Feb 2018
+
+### Google Data Analytics 
+Issued: March 2025
+
+Link: https://www.coursera.org/account/accomplishments/professional-cert/certificate/OMYBJ3YN19VR
 
 ## Skills
 Python - Java - JavaScript - C - R - Microsoft - Mac - Linux - Git - React - Figma(Software) - Agile/Scrum Methodologies - Data Structures - Data mining - Data Cleaning - DataBases - SQL - Search/Writing Querying - Data Analytics - Analytical Skills - Problem Solving - MySQL - Microssoft Word/Excel/PowerPoint/Access - Jupyter Notebook - Project Management - Networks - Front and Back end Development - Application Program Interfaces(API's) - Spring Boot - Algorithms - Machine Learning - Google Sheets - Tableau
@@ -119,6 +126,13 @@ used: R
 In Python, developed a program using BeautifulSoup, request, and pandas to gather visual table from websites. This is done by searching for table tags in the html processing the data off the website into a data frame then saving it to csv. Which allows user to use for later analisys.
 
 Used: Python(Libraries) - Jupyter Notbook
+
+### P2P Sharing Network
+
+A network application that can be both the client(consumer or requester) and a server (producer or provider). When a peer wants to make a
+resource available, it registers its content in the network. Such as peer A can send a file/document to peer B and they just have to accept the it.
+
+Used: Python(Sockets, Libraries)
 
 ### Lottery Number Predictor
 ![](6-png.png)
