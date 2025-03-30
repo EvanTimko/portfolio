@@ -129,7 +129,7 @@ In Python, developed a program using BeautifulSoup, request, and pandas to gathe
 Used: Python(Libraries) - Jupyter Notbook
 
 ### P2P Sharing Network
-![](png-11.png)
+
 A network application that can be both the client(consumer or requester) and a server (producer or provider). When a peer wants to make a
 resource available, it registers its content in the network. Such as peer A can send a file/document to peer B and they just have to accept the it. We accomplished this by using threading to allow the host to open the server and tkinter to make a nice little GUI so the user could easily use.
 
