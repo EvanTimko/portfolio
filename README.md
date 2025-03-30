@@ -1,8 +1,8 @@
 # Portfolio
 
-- LinkedIn: https://www.linkedin.com/in/evan-timko-4008a81a2/
-- Github: https://github.com/EvanTimko
-- Porfolio: https://evantimko.github.io/portfolio/
+- [LinkedIn:](https://www.linkedin.com/in/evan-timko-4008a81a2/)
+- [Github:](https://github.com/EvanTimko)
+- [Porfolio:](https://evantimko.github.io/portfolio/)
   
 ## Education
 
@@ -89,7 +89,7 @@ Issued Jul 2021 · Expired Jul 2023
 
 Credential ID 001226662
 
-Link: https://bcert.me/bc/html/show-badge.html?b=vfwgjtng
+[Link:](https://bcert.me/bc/html/show-badge.html?b=vfwgjtng)
 
 ### Private Pilots Liciense
 Issued  Feb 2018
@@ -97,7 +97,7 @@ Issued  Feb 2018
 ### Google Data Analytics 
 Issued: March 2025
 
-Link: https://www.coursera.org/account/accomplishments/professional-cert/certificate/OMYBJ3YN19VR
+[Link:](https://www.coursera.org/account/accomplishments/professional-cert/certificate/OMYBJ3YN19VR)
 
 ## Skills
 Python - Java - JavaScript - C - R - Microsoft - Mac - Linux - Git - React - Figma(Software) - Agile/Scrum Methodologies - Data Structures - Data mining - Data Cleaning - DataBases - SQL - Search/Writing Querying - Data Analytics - Analytical Skills - Problem Solving - MySQL - Microssoft Word/Excel/PowerPoint/Access - Jupyter Notebook - Project Management - Networks - Front and Back end Development - Application Program Interfaces(API's) - Spring Boot - Algorithms - Machine Learning - Google Sheets - Tableau
