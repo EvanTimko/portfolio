@@ -2,7 +2,8 @@
 
 - LinkedIn: https://www.linkedin.com/in/evan-timko-4008a81a2/
 - Github: https://github.com/EvanTimko
-
+- Porfolio: https://evantimko.github.io/portfolio/
+  
 ## Education
 
 - Bachelor's of Science in Computer Science
