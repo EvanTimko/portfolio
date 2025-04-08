@@ -57,18 +57,6 @@ Wilmington, Delaware, United States
 - Created multiple applications using data structures and algorithms.
 - Applied Object Oriented Programing in Java.
 
-### Software Engineer
-
-Code Differently · Internship
-
-May 2021 to Aug 2021 · 4 months
-
-Wilmington, Delaware, United States
-
-- Created and Designed multiple spring boot applications.
-- Created multiple applications using data structures and algorithms.
-- Applied Object Oriented Programing in Java.
-
 ### Tutor/TA
 
 Delaware State University · Part-time
