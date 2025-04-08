@@ -75,10 +75,20 @@ Delaware State University · Part-time
 
 Aug 2020 - May 2021 · 10 months
 
-Dover, Delaware, United StatesDover, Delaware, United States
+Dover, Delaware, United States
 
 - Helped 20+ students to understand basic of programming to apply to their assignments and final project
 - Tutoring, teaching labs and helping in classroom for 10hrs each week.
+
+### Lifeguard
+
+Killens Pond Water Park - Seasonal
+
+May 2016-Sep 2016 - May 2018-Sep 2018 - May 2019-Sep 2019
+
+Felton, DE
+
+- Maintained safety and order in pool and slide areas; regularly cleaned and tested pool and provided first aid and help to the patrons
 
 ## Licenses & Certifications 
 
